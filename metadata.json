@@ -1,0 +1,5 @@
+{
+  "name": "Fudge Judge",
+  "description": "A fun web application based on the viral 'Fudge Judge' sensation. It features a soundboard with iconic phrases and an interactive 'Fudge Fury' game where you catch falling fudge.",
+  "requestFramePermissions": []
+}
